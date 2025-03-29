@@ -24,7 +24,7 @@ Budget Wizard API is the backend service for the Budget Wizard mobile applicatio
 ### Steps
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/budget-wizard-api.git
+   git clone https://github.com/hemantshirsath/BudgetWidzardAPI.git
    cd budget-wizard-api
    ```
 2. **Set up environment variables:**
